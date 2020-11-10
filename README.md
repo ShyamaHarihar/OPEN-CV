@@ -1,6 +1,6 @@
 # OPEN-CV
 ## installations
-packages - numpy,cv2
+packages - numpy,cv2 and IDE used-PyCharm 
 <br />
 How to load a image
 <br />
