@@ -9,3 +9,5 @@ How to load a video
 How to load webcam/laptop camera feed
 <br />
 Process a colour image to Gray image,Blur image,Canny image,Dilation image,Eroded image
+<br />
+Cropping and resizing an image
