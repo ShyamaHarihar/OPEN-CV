@@ -11,3 +11,9 @@ How to load webcam/laptop camera feed
 Process a colour image to Gray image,Blur image,Canny image,Dilation image,Eroded image
 <br />
 Cropping and resizing an image
+<br />
+Draw line,circle,rectangle and write text 
+<br />
+Warp Perspective 
+<br />
+Horizontal and Vertical Stacking
