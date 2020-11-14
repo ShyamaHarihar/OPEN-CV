@@ -19,3 +19,5 @@ Warp Perspective
 Horizontal and Vertical Stacking
 <br />
 Colour Detection
+<br />
+Object Detection
